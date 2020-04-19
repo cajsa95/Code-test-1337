@@ -1,5 +1,4 @@
 import React from "react";
-//import "./App.css";
 import Ninjas from "./components/Ninjas";
 
 function App() {
