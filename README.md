@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to run application:
 
-Navigate to folder 'Ninjas' then run:
+Navigate to folder 'code-test-1337' then run:
 
 - npm install
 - npm start
