@@ -1,0 +1,48 @@
+.button {
+  background-color: #7fc565;
+  border-radius: 28px;
+  border: 1px solid #7fc565;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  /* font-family:Arial; */
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  /* text-shadow:0px 1px 0px #2f6627; */
+}
+.button:hover {
+  background-color: transparent;
+  border: 1px solid #7fc565;
+  color: #000;
+}
+
+.gridView {
+  background-image: url("./view/grid/gridView.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.listView {
+  background-image: url("./view/list/listView.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.input {
+  border-radius: 28px;
+  border: 1px solid #7fc565;
+  display: inline-block;
+  cursor: pointer;
+  color: #000;
+  font-size: 17px;
+  padding: 16px 31px;
+}
+
+.more {
+  margin: 50px;
+  width: 20%;
+  margin-left: 40%;
+}

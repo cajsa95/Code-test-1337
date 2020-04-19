@@ -1,0 +1,38 @@
+#ninjas {
+  text-align: center;
+  border-collapse: collapse;
+  width: 90%;
+  margin-left: 5%;
+}
+
+#ninjas td,
+#ninjas th {
+  /* border: 1px solid #ddd; */
+  padding: 8px;
+  width: 25%;
+}
+.email {
+  background-image: url("./email.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  color: transparent;
+}
+:hover {
+  color: #000;
+  background: none;
+  text-decoration: none;
+}
+
+.phone {
+  background-image: url("./phone.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  color: transparent;
+}
+:hover {
+  color: #000;
+  background: none;
+  text-decoration: none;
+}
